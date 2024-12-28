@@ -1,0 +1,6 @@
+plugin:
+    name: 'nuts.meilisearch::lang.plugin.name'
+    description: 'nuts.meilisearch::lang.plugin.description'
+    author: Nuts
+    icon: wn-icon-search
+    replaces: {  }
